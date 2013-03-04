@@ -1,0 +1,7 @@
+*.py[co]
+*~
+*.erviz
+*.dot
+*.png
+*.local
+dbsc/settings.py
